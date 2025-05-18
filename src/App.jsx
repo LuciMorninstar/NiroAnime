@@ -1,8 +1,13 @@
-import Header from "./components/header"
+import Header from "./components/navbar/Header"
+import Sidebar from "./components/sidebar/Sidebar"
 
 const App = () => {
   return (
+    <>
  <Header/>
+ <Sidebar/>
+
+ </>
   )
 }
 

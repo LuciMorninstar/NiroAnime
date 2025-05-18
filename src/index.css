@@ -10,6 +10,8 @@
 
 body{
 overflow-y:scroll;
+
+background:#080808;
  
 &::webkit-scrollbar{
   width:6px;
@@ -26,6 +28,10 @@ overflow-y:scroll;
   --color-fikka-white: #F5F7F8;
   --color-nav-background:#080808;
   --color-input-field-background:#141414;
+  --color-background-black:#080808;
+  /* --border-line:@apply border-gray-700; */
+  --color-svg-color:#3B82F6;
+
   
 }
 
@@ -38,8 +44,10 @@ overflow-y:scroll;
 
   
   nav{
-    @apply bg-nav-background opacity-[97%] ;
+    @apply bg-nav-background opacity-[97%] border-1 border-b-gray-800 ;
   }
+
+  /* _________Navbar ends____________ */
 
 }
 
@@ -52,6 +60,15 @@ overflow-y:scroll;
       @apply  bg-input-field-background h-[40px] w-[450px] border-1 border-gray-700 caret-blue-500 
 
       
+    }
+
+    
+    /* _______________Navbar_ends_____________ */
+
+
+    /* _______________SideBar Starts___________________ */
+    .sidebar-icons{
+      @apply bg-background-black w-[70px] h-[calc(100vh-60px)] flex flex-col items-center border-2 border-r-gray-800
     }
 
 
@@ -73,7 +90,6 @@ overflow-y:scroll;
     @apply  p-[8px] border-1 border-gray-700 cursor-pointer
 
   }
-
   
 
   /* for responsiveness */
@@ -91,9 +107,26 @@ overflow-y:scroll;
   }
 
 
+     /* _______________Navbar___ends___________ */
 
-  /* .applied-svg-style{
-    @apply w-[24px] h-[24px] fill-white;
+     /* ____________Sidebar Starts_____________ */
 
-  } */
+     .util-styling{
+      @apply   flex flex-col justify-center items-center gap-[5px]  h-[70px] w-full p-[12px] odd:bg-input-field-background even:bg-background-black hover:border-r-2 border-svg-color transition-all duration-100 ease-in
+      
+
+
+     }
+
+     .styling-icon{
+      @apply  border-none group-hover:fill-svg-color
+     }
+
+     .icon-name{
+      @apply text-white text-[12px] group-hover:text-svg-color
+     }
+
+
+
+
 }
