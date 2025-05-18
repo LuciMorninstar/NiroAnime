@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+
+*{
+
+  @apply selection:bg-blue-500 selection:text-black;
+
+  
+}
+
+body{
+overflow-y:scroll;
+ 
+&::webkit-scrollbar{
+  width:6px;
+
+}
+&::-webkit-scrollbar-thumb{
+  background-color:skyblue;
+}
+}
+
+@theme{
+  --color-bluish-black:#222831;
+  --color-lightish-blue:#547792;
+  --color-fikka-white: #F5F7F8;
+  --color-nav-background:#080808;
+  --color-input-field-background:#141414;
+ 
+}
+
+
+@layer base {
+
+  svg{
+     @apply w-[40px] h-[40px] fill-white bg-input-field-background border-1 rounded-sm
+  }
+
+  
+  nav{
+    @apply bg-nav-background opacity-[97%] ;
+  }
+
+}
+
+
+@layer components{
+
+
+
+    .input-field{
+      @apply  bg-input-field-background h-[40px] w-[450px] border-1 border-gray-700 caret-blue-500
+
+      
+    }
+
+
+
+  }
+
+
+@layer utitlities{
+  .flex-centered{
+    @apply flex flex-row justify-center items-center
+  }
+  
+  .flex-between{
+    @apply flex flex-row justify-between items-center
+    
+  }
+
+  .svg-box{
+    @apply  p-[8px] border-1 border-gray-700 cursor-pointer
+
+  }
+
+
+
+  /* .applied-svg-style{
+    @apply w-[24px] h-[24px] fill-white;
+
+  } */
+}
