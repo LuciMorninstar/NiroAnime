@@ -26,7 +26,7 @@ overflow-y:scroll;
   --color-fikka-white: #F5F7F8;
   --color-nav-background:#080808;
   --color-input-field-background:#141414;
- 
+  
 }
 
 
@@ -49,7 +49,7 @@ overflow-y:scroll;
 
 
     .input-field{
-      @apply  bg-input-field-background h-[40px] w-[450px] border-1 border-gray-700 caret-blue-500
+      @apply  bg-input-field-background h-[40px] w-[450px] border-1 border-gray-700 caret-blue-500 
 
       
     }
@@ -71,6 +71,22 @@ overflow-y:scroll;
 
   .svg-box{
     @apply  p-[8px] border-1 border-gray-700 cursor-pointer
+
+  }
+
+  
+
+  /* for responsiveness */
+  .hide{
+    @apply max-md:hidden;
+  }
+
+  .slidetoright{
+    @apply max-md:absolute max-md:left-[50px];
+  }
+
+  .responsive-search-background{
+     @apply bg-nav-background opacity-[97%] h-[60px] w-full  ;
 
   }
 
