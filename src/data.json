@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Attack on Titan",
+    "description": "In a world where humanity is on the brink of extinction, giant humanoid creatures known as Titans have pushed the last survivors behind enormous walls. The story follows Eren Yeager and his friends as they join the military to fight back and uncover dark secrets about their world and the Titans.",
+    "type": "TV",
+    "ratings": 9.0,
+    "duration": "24 min"
+  },
+  {
+    "id": 2,
+    "title": "Death Note",
+    "description": "Light Yagami, a brilliant high school student, discovers a supernatural notebook that allows him to kill anyone by writing their name in it. As he attempts to cleanse the world of evil, a tense psychological battle unfolds between him and the genius detective known only as L.",
+    "type": "TV",
+    "ratings": 8.7,
+    "duration": "23 min"
+  },
+  {
+    "id": 3,
+    "title": "Demon Slayer",
+    "description": "After his family is slaughtered by demons and his sister turned into one, Tanjiro Kamado embarks on a dangerous journey to become a demon slayer. He faces brutal battles and forms bonds as he seeks a cure to save his sister and avenge his family.",
+    "type": "TV",
+    "ratings": 8.5,
+    "duration": "24 min"
+  },
+  {
+    "id": 4,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "description": "Two brothers, Edward and Alphonse Elric, commit the taboo of human transmutation in a failed attempt to resurrect their mother. Left physically scarred, they journey across the land in search of the Philosopher's Stone to restore their bodies while uncovering dark conspiracies and government secrets.",
+    "type": "TV",
+    "ratings": 9.1,
+    "duration": "24 min"
+  },
+  {
+    "id": 5,
+    "title": "One Punch Man",
+    "description": "Saitama is a hero who has trained so hard he can defeat any opponent with a single punch. Despite his overwhelming strength, he struggles with boredom and seeks a worthy opponent while navigating the quirky world of heroes and villains.",
+    "type": "TV",
+    "ratings": 8.8,
+    "duration": "24 min"
+  },
+  {
+    "id": 6,
+    "title": "My Hero Academia",
+    "description": "In a world where almost everyone has superpowers known as Quirks, Izuku Midoriya is born without one. Despite this, he dreams of becoming the greatest hero and gains the power of the legendary All Might, facing trials, villains, and personal growth on his heroic path.",
+    "type": "TV",
+    "ratings": 8.0,
+    "duration": "24 min"
+  },
+  {
+    "id": 7,
+    "title": "Tokyo Ghoul",
+    "description": "College student Kaneki becomes a half-ghoul after a near-fatal encounter with a flesh-eating creature. Struggling with his new identity, he must navigate the violent world of ghouls, confront enemies, and reconcile his human and monster sides.",
+    "type": "TV",
+    "ratings": 7.9,
+    "duration": "24 min"
+  },
+  {
+    "id": 8,
+    "title": "Naruto",
+    "description": "Naruto Uzumaki, an orphaned ninja with a sealed demon fox inside him, struggles to gain recognition and respect. His journey to become the village leader, the Hokage, is filled with friendship, rivalry, and fierce battles.",
+    "type": "TV",
+    "ratings": 7.9,
+    "duration": "23 min"
+  },
+  {
+    "id": 9,
+    "title": "Steins;Gate",
+    "description": "A group of friends accidentally invent a device that can send messages to the past, triggering a chain of events that threaten their lives and reality. As they race to fix the timeline, they confront conspiracy, tragedy, and the cost of altering fate.",
+    "type": "TV",
+    "ratings": 9.1,
+    "duration": "24 min"
+  },
+  {
+    "id": 10,
+    "title": "Cowboy Bebop",
+    "description": "Set in a futuristic universe, a ragtag group of bounty hunters known as the Bebop crew travels through space capturing criminals. Each member hides a troubled past, and their journeys explore themes of loneliness, redemption, and the meaning of family.",
+    "type": "TV",
+    "ratings": 8.9,
+    "duration": "24 min"
+  },
+  {
+    "id": 11,
+    "title": "Code Geass",
+    "description": "Exiled prince Lelouch gains the power of Geass, which lets him command anyone to obey his orders. He uses this ability to lead a rebellion against a tyrannical empire, navigating complex politics, moral dilemmas, and intense battles.",
+    "type": "TV",
+    "ratings": 8.7,
+    "duration": "24 min"
+  },
+  {
+    "id": 12,
+    "title": "Violet Evergarden",
+    "description": "After the war, Violet, a former soldier, becomes an Auto Memory Doll, writing letters that convey people's true emotions. As she learns about love and loss, she embarks on a journey of healing and self-discovery.",
+    "type": "TV",
+    "ratings": 8.4,
+    "duration": "24 min"
+  },
+  {
+    "id": 13,
+    "title": "Mob Psycho 100",
+    "description": "Shigeo 'Mob' Kageyama is a middle schooler with powerful psychic abilities. Trying to live a normal life, he must control his emotions while facing spirits, rival psychics, and his own self-worth.",
+    "type": "TV",
+    "ratings": 8.6,
+    "duration": "24 min"
+  },
+  {
+    "id": 14,
+    "title": "Erased",
+    "description": "Satoru Fujinuma has the ability to travel back in time moments before a tragedy occurs. When his mother is murdered, he is sent 18 years into the past to prevent a kidnapping incident that shaped his childhood.",
+    "type": "TV",
+    "ratings": 8.5,
+    "duration": "22 min"
+  },
+  {
+    "id": 15,
+    "title": "Black Clover",
+    "description": "Asta and Yuno are orphans with dreams of becoming the Wizard King, the strongest mage in the Clover Kingdom. Despite Asta’s lack of magic, his determination and mysterious power set him on an extraordinary path.",
+    "type": "TV",
+    "ratings": 7.8,
+    "duration": "24 min"
+  },
+  {
+    "id": 16,
+    "title": "Hunter x Hunter",
+    "description": "Gon Freecss leaves his home to become a Hunter and find his missing father. Along the way, he faces dangerous creatures, complex challenges, and builds strong friendships.",
+    "type": "TV",
+    "ratings": 9.0,
+    "duration": "24 min"
+  },
+  {
+    "id": 17,
+    "title": "Made in Abyss",
+    "description": "Riko descends into the Abyss, a massive and mysterious chasm, to find her mother. Along with a robot boy named Reg, she faces deadly creatures and uncovers dark secrets of the Abyss.",
+    "type": "TV",
+    "ratings": 8.8,
+    "duration": "25 min"
+  },
+  {
+    "id": 18,
+    "title": "Parasyte",
+    "description": "When alien parasites invade Earth and take over human bodies, high school student Shinichi Izumi fights to retain his humanity while battling these creatures that threaten the world.",
+    "type": "TV",
+    "ratings": 8.4,
+    "duration": "24 min"
+  },
+  {
+    "id": 19,
+    "title": "Your Lie in April",
+    "description": "Kousei Arima, a piano prodigy who lost his ability to hear the piano after his mother’s death, meets a spirited violinist named Kaori. Through her, he rediscovers the joy of music and life.",
+    "type": "TV",
+    "ratings": 8.6,
+    "duration": "22 min"
+  },
+  {
+    "id": 20,
+    "title": "Angel Beats!",
+    "description": "Set in the afterlife, a group of high school students with unresolved regrets fight against an enigmatic girl who represents the system that controls their world, searching for peace and closure.",
+    "type": "TV",
+    "ratings": 8.1,
+    "duration": "23 min"
+  }
+]
